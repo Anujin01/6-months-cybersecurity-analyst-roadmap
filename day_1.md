@@ -9,10 +9,10 @@ There are 2 types of IP addresses where you can use locally inside and visible o
 # Subnetting
 Subnetting is a process of dividing large network into smaller to make it easier to manage. 
 
-192.161.1.10 – IP address
-255.255.255.0 – subnet mask
-192.161.1 – is your networking part shared by everyone in the local network like your neighborhood  
-10 – is your specific address to find you from the neighborhood 
+* 192.161.1.10 – IP address
+* 255.255.255.0 – subnet mask
+* 192.161.1 – is your networking part shared by everyone in the local network like your neighborhood  
+* 10 – is your specific address to find you from the neighborhood 
 
 | Range                             | CIDR           | Typical Use                                 | Example      |
 | --------------------------------- | -------------- | ------------------------------------------- | ------------ |
