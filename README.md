@@ -1,5 +1,21 @@
 # 6-months-cybersecurity-analyst-roadmap
-I will document all my projects lab and processes
+  🛡️This repository tracks my journey to become a Cybersecurity Analyst over the next 6 months.
+It includes daily/weekly exercises, labs, mini-projects, and hands-on practice with tools, networks, and security concepts.
+
+### This repository will contain:
+
+💻 Networking Labs – Subnetting, IP addressing, OSI/TCP-IP model exercises
+
+🥽 Cisco Packet Tracer Labs – LAN/WAN setup, routing, DHCP, ping tests
+
+📫 Email Server Simulation – Setting up local email servers and testing communication
+
+🚥 Traffic Analysis Exercises – Using Wireshark to capture and analyze network traffic
+
+📄 Vulnerability Assessments – Scanning and analyzing virtual machines for security issues
+
+🧪 Incident Response Labs – Examining logs, identifying threats, and simulating responses
+
 
 |  #  | Project                                                          | Links                |
 | :-: | -----------------------------------------------------------------| --------------------------|
