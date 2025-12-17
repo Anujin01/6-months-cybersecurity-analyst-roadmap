@@ -23,3 +23,4 @@ It includes daily/weekly exercises, labs, mini-projects, and hands-on practice w
 | 02 | OSI Model Basics     |  [Layers explained with examples](day2_OSI.md)|
 | 03 | Cisco Packet Tracer Labs    |  [Built simple LANs](day3_packet_tracer.md)|
 | 04 | Email Server Simulation     |  [DHCP + Email service setup ](day4_Simulating_email_server.md)|
+| 05 | Cybersecurity fundamentals    |  [badge ](day5_badge.md)|
